@@ -1,0 +1,19 @@
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+.auto {
+    display: block;
+    margin: auto;
+}
+
+header {
+    position: fixed;
+}
+
+@media (min-width: 768px){
+    form {
+        display: flex;
+    }
+}
